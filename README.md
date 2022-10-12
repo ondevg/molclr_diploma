@@ -17,4 +17,5 @@ does not violate chemical principles while pushing the model to learn the toxici
 dependent parts of a molecule.
 ### Results
 Experiments showed that novel augmentations are more efficient than the random subgraph masking approach usually used in molecular contrastive learning. The performance comparison with other GNN-based frameworks is carried out as well.
-
+### Implementation
+Based on https://github.com/yuyangw/MolCLR, novel augmentation approach was implemented (for code see dataset folder).
